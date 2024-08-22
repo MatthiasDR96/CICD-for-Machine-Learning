@@ -3,7 +3,7 @@
 [![Continuous Deployment](https://github.com/MatthiasDR96/CICD-for-Machine-Learning/actions/workflows/cd.yml/badge.svg)](https://github.com/MatthiasDR96/CICD-for-Machine-Learning/actions/workflows/cd.yml)
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MatthiasDR96/CICD-for-Machine-Learning/blob/main/notebook.ipynb)
 
-[![Open in Spaces](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-md-dark.svg)](https://huggingface.co/spaces/MatthiasDR96/Drug-Classification)
+[![Open in Spaces](https://huggingface.co/datasets/huggingface/badges/resolve/main/open-in-hf-spaces-md-dark.svg)](https://huggingface.co/spaces/MatthiasDR/Drug-Classification)
 
 This repository is based on a tutorial of Datacamp.
 
